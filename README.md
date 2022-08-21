@@ -1,6 +1,3 @@
-## Hey!
-<br>
-
 <div>
   <a href= "https:/beacons.ai/index-evelin">
     <img hiegth="180cm" src="https://github-readme-stats.vercel.app/api?username=index-evelin&show_icons=true&theme=tokyonight"/>
