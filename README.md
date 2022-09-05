@@ -1,5 +1,5 @@
-<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=index-evelin&show_icons=true&theme=tokyonight"/>
-<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-evelin&layout=compact&theme=tokyonight"/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api?username=index-evelin&show_icons=true&theme=synthwave"/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-evelin&layout=compact&theme=synthwave"/>
 
 <h1>Olá, dev!</h1>
 
