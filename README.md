@@ -6,12 +6,32 @@
 <a align="left" href="https://www.instagram.com/index.amora"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a align="left" href="https://www.linkedin.com/in/evelin-amancio-da-silva-477b9622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a align="left" href="https://web.whatsapp.com/send?phone=5566999142299" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a align="left" href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+<h3>Ferramentas</h3>
+  <p style="display: inline_block">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+  </p>
+  
+##
+
+<h3>Configurações do meu notebook</h3>
+
+- Acer A514-54-397J
+- Intel® Core™ i3 – 1115G4 – 11° Geração
+- 256GB SSD
+- 8GB de RAM
+- Windows 11
+
+##
+
+<img align="right" width="530px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<h3>Espaço pessoal :)</h3>
 
 <p style="display: inline_block">
-
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-
+  <a href="https://steamcommunity.com/profiles/76561199098594599/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://store.epicgames.com/pt-BR/u/eacb84d4fc9441c2b4924ff0b7afbc50"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31ymzm3yvpvqqy5pczxit5uwibra"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a align="left" href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
