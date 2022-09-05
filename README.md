@@ -1,5 +1,5 @@
 <img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=index-evelin&show_icons=true&theme=synthwave"/>
-<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-evelin&layout=compact&theme=synthwave"/>
+<a href="https://github.com/index-evelin/github-readme-stats"><img align="right" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=index-evelin&langs_count=8&theme=synthwave"/></a>
 
 <h1>Olá, dev!</h1>
 
