@@ -3,7 +3,7 @@
 
 <h1>Olá, dev!</h1>
 
-<h3>Desenvolvedora Web</h3>
+<h3>Desenvolvedora Web  ☕</h3>
 
 <br>
 
