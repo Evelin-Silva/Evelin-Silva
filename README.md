@@ -3,7 +3,7 @@
 
 <h1>Olá, dev!</h1>
 
-<img src="https://komarev.com/ghpvc/?username=index-evelin&color=red" alt="Profile views">
+<a href="https://git.io/streak-stats"><img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=index-evelin&theme=synthwave&locale=pt-br"></a>
 
 <h3>Redes</h3>
 
