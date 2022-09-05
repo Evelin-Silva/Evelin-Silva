@@ -25,18 +25,6 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   </p>
 
-<!--
-##
-
-<h3>Configurações do meu notebook</h3>
-
-- Acer A514-54-397J
-- Intel® Core™ i3 – 1115G4 – 11° Geração
-- 256GB SSD
-- 8GB de RAM
-- Windows 11
--->
-
 ##
 
 <img align="right" width="530px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
@@ -50,3 +38,11 @@
   <a href="https://open.spotify.com/user/31ymzm3yvpvqqy5pczxit5uwibra"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a align="left" href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+<h3>Configurações do meu notebook</h3>
+
+- Acer A514-54-397J
+- Intel® Core™ i3 – 1115G4 – 11° Geração
+- 256GB SSD
+- 8GB de RAM
+- Windows 11
