@@ -17,7 +17,11 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
   </p>
-  
+
+<br>
+<br>
+
+<!--
 ##
 
 <h3>Configurações do meu notebook</h3>
@@ -27,11 +31,14 @@
 - 256GB SSD
 - 8GB de RAM
 - Windows 11
+-->
 
 ##
 
 <img align="right" width="530px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 <h3>Espaço pessoal :)</h3>
+
+<br>
 
 <p style="display: inline_block">
   <a href="https://steamcommunity.com/profiles/76561199098594599/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
