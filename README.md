@@ -5,9 +5,6 @@
 
 <h3>Desenvolvedora Web  💻</h3>
 
-<br>
-
-<a href="https://git.io/streak-stats"><img width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=index-evelin&theme=synthwave&locale=pt-br"></a>
 
 <h3>Redes</h3>
 
