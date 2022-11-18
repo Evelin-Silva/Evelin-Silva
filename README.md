@@ -39,8 +39,9 @@
   <a href="https://steamcommunity.com/profiles/76561199098594599/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://store.epicgames.com/pt-BR/u/eacb84d4fc9441c2b4924ff0b7afbc50"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31ymzm3yvpvqqy5pczxit5uwibra"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a align="left" href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+<h4 style="color: #7D3C98;">Discord: #3262</h4>
 
 <h3>Configurações do meu notebook</h3>
 
