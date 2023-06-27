@@ -3,6 +3,7 @@
 <h1>Olá, dev!</h1>
 
 <h3>Desenvolvedora Front-end 💻</h3>
+<p>Fazendo download das habilidades 🎯</p>
 
 <br>
 
