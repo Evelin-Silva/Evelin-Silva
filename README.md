@@ -7,24 +7,20 @@
 
 <br>
 
-<h3>Redes</h3>
-
-<a align="left" href="https://www.instagram.com/index.amora"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a align="left" href="https://www.linkedin.com/in/evelin-amancio-da-silva-477b9622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 <h3>Ferramentas</h3>
   <p style="display: inline_block">
-    <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-    <a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://www.opera.com/pt-br/gx?edition=std-1&gclsrc=aw.ds&utm_campaign=OGX_BR_Search_EN_PT_Brand&utm_source=sa360_GOOGLE&utm_medium=ba_ose&gclid=Cj0KCQiA99ybBhD9ARIsALvZavWlcKWG-fArV-JvTdfcf9C4HNrnE3MFkOsgPVFPrEseuYufM170e40aAsuqEALw_wcB&utm_id=Cj0KCQiA99ybBhD9ARIsALvZavWlcKWG-fArV-JvTdfcf9C4HNrnE3MFkOsgPVFPrEseuYufM170e40aAsuqEALw_wcB"><img src="https://img.shields.io/badge/opera-4285F4?style=for-the-badge&logo=opera&logoColor=white""></a>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/opera-4285F4?style=for-the-badge&logo=opera&logoColor=white"">
     <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </p>
   
-<h3>Linguagens</h3>
+<h3>Habilidades</h3>
   <p style="display: inline_block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </p>
 
 ##
@@ -35,12 +31,14 @@
 <br>
 
 <p style="display: inline_block">
+  <a align="left" href="https://www.instagram.com/index.amora"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a align="left" href="https://www.linkedin.com/in/evelin-amancio-da-silva-477b9622a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://steamcommunity.com/profiles/76561199098594599/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://store.epicgames.com/pt-BR/u/eacb84d4fc9441c2b4924ff0b7afbc50"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31ymzm3yvpvqqy5pczxit5uwibra"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<h4 style="color: #7D3C98;">Discord: #3262</h4>
+<h4>Discord: #3262</h4>
 
 <h3>Configurações do meu notebook</h3>
 
